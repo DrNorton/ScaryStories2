@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaryStories.Visual", "ScaryStories.Visual\ScaryStories.Visual.csproj", "{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{E696A2A1-74A9-426F-ABEA-E079EFB47702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|ARM.Build.0 = Debug|ARM
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|ARM.Deploy.0 = Debug|ARM
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|x86.ActiveCfg = Debug|x86
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|x86.Build.0 = Debug|x86
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Debug|x86.Deploy.0 = Debug|x86
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|ARM.ActiveCfg = Release|ARM
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|ARM.Build.0 = Release|ARM
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|ARM.Deploy.0 = Release|ARM
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|x86.ActiveCfg = Release|x86
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|x86.Build.0 = Release|x86
+		{AECC7772-3DD3-4798-ACEE-60D4FAC5FFD3}.Release|x86.Deploy.0 = Release|x86
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Debug|ARM.Build.0 = Debug|ARM
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Debug|x86.ActiveCfg = Debug|x86
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Debug|x86.Build.0 = Debug|x86
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Release|ARM.ActiveCfg = Release|ARM
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Release|ARM.Build.0 = Release|ARM
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Release|x86.ActiveCfg = Release|x86
+		{E696A2A1-74A9-426F-ABEA-E079EFB47702}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
